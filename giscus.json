@@ -1,0 +1,4 @@
+{
+  "origins": ["https://stdz.dev"],
+  "originsRegex": ["^http://localhost:4321$"]
+}
